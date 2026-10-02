@@ -8,11 +8,11 @@ Só que, logo em seguida, descobri que um dos meus canais educativos favoritos, 
 
 O vídeo mostra tudo o que vimos na disciplina, só que com um nível de profundidade e qualidade de animação tão bom que eu ***precisava*** compartilhar aqui. Ele explica melhor do que eu poderia:
 
-https://www.youtube.com/watch?v=B7Dopv6kzJA
+[https://www.youtube.com/watch?v=B7Dopv6kzJA](https://www.youtube.com/watch?v=B7Dopv6kzJA)
 
 ![Thumbnail do vídeo "How do Cameras Work?" do Branch Education](assets/how_does_a_camera_work.png)
 
-O canal do Branch Education! ➡️ https://www.youtube.com/@BranchEducation
+O canal do Branch Education! ➡️ [https://www.youtube.com/@BranchEducation](https://www.youtube.com/@BranchEducation)
 
 ---
 
