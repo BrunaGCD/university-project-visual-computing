@@ -6,3 +6,4 @@
 2. [Uma cidade inteira e com vida em ASCII](02_cidade_ascii.md) (19/08/2026)
 3. [Monitores CRT monocromáticos](03_monitores_mono.md) (02/09/2026)
 4. [O que faz uma tela ser desconfortável para os olhos?](04_desconforto_visual.md) (17/09/2026)
+5. [Vídeo do Branch Education: Como câmeras funcionam?](05_cameras_cmos_ccd.md) (01/10/2026)
