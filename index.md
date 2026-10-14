@@ -7,3 +7,4 @@
 3. [Monitores CRT monocromáticos](03_monitores_mono.md) (02/09/2026)
 4. [O que faz uma tela ser desconfortável para os olhos?](04_desconforto_visual.md) (17/09/2026)
 5. [Vídeo do Branch Education: Como câmeras funcionam?](05_cameras_cmos_ccd.md) (01/10/2026)
+6. [Vídeo do 3Blue1Brown: Desenhando com círculos](06_fourier_circulos.md) (14/10/2026)
